@@ -27,5 +27,17 @@
       <enclosure url="https://github.com/W-PY/drwpy-podcast/releases/download/v0.1.0/001-ai-obsidian-2026.mp4" length="43544989" type="video/mp4"/>
       <itunes:duration>22:32</itunes:duration>
     </item>
+    <item>
+      <title>EP.02 小腿青筋不是老化的代價——從早餐店阿姨到CEAP分級，靜脈曲張完整指南</title>
+      <link>https://w-py.github.io/drwpy-podcast/</link>
+      <guid isPermaLink="true">https://w-py.github.io/drwpy-podcast/episodes/002</guid>
+      <pubDate>Sat, 23 May 2026 11:34:46 GMT</pubDate>
+      <description>本集以吳柏俞醫師 pillar 文章「高雄靜脈曲張完整指南」為基礎，從早餐店阿姨的門診故事出發，涵蓋 CEAP C0-C6 分級、靜脈瓣膜機制、五種治療方式比較與開刀決策框架。</description>
+      <itunes:summary>靜脈曲張不只是美觀問題——從早餐店阿姨的故事到CEAP分級，吳柏俞醫師帶你用一集搞懂靜脈疾病的完整面貌。</itunes:summary>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://github.com/W-PY/drwpy-podcast/releases/download/v0.2.0/EP02.mp3" length="15902362" type="audio/mpeg"/>
+      <itunes:duration>18:51</itunes:duration>
+    </item>
   </channel>
 </rss>
