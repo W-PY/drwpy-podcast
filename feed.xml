@@ -12,7 +12,7 @@
       <itunes:name>DrWPY</itunes:name>
       <itunes:email>wpyz375@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://w-py.github.io/drwpy-podcast/cover.jpg"/>
+    <itunes:image href="https://raw.githubusercontent.com/W-PY/drwpy-podcast/main/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
