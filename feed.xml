@@ -7,6 +7,7 @@
     <language>zh-tw</language>
     <itunes:author>DrWPY</itunes:author>
     <itunes:summary>一位心臟血管外科醫師在臨床、碩士研究與 AI 技術之間的探索與筆記。</itunes:summary>
+    <itunes:type>episodic</itunes:type>
     <itunes:owner>
       <itunes:name>DrWPY</itunes:name>
       <itunes:email>wpyz375@gmail.com</itunes:email>
@@ -15,14 +16,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
-      <title>AI Obsidian 第二大脑 - 從聊天到 Agent 工作流 (2026)</title>
-      <link>https://w-py.github.io/drwpy-podcast/episodes/001-ai-obsidian-2026.html</link>
-      <guid isPermaLink="true">https://w-py.github.io/drwpy-podcast/episodes/001-ai-obsidian-2026.html</guid>
+      <title>EP.01 從聊天到代理——NxCode 談 Obsidian AI 工作流的典範轉移</title>
+      <link>https://w-py.github.io/drwpy-podcast/</link>
+      <guid isPermaLink="true">https://w-py.github.io/drwpy-podcast/episodes/001-ai-obsidian-2026</guid>
       <pubDate>Fri, 23 May 2026 08:00:00 GMT</pubDate>
-      <description>2026 年 Obsidian + AI Agent 工作流的完整指南，探討如何從單純的 AI 問答進化到自主工作代理。</description>
-      <itunes:summary>2026 年 Obsidian + AI Agent 工作流的完整指南，探討如何從單純的 AI 問答進化到自主工作代理。</itunes:summary>
+      <description>2026 年，AI 與筆記工具的關係正在發生根本性的典範轉移——不再只是「在 Obsidian 裡聊天」，而是讓 AI Agent 沿著你的知識連結自主工作。本集以 NxCode 最新指南〈Obsidian AI Second Brain: Complete Guide (2026)〉為出發點，深入討論五個關鍵議題：AI Agent 工作流對臨床醫師與研究者的實際價值、MCP 協定如何讓 Obsidian 變成自動文獻綜述引擎、為何「先結構化再餵 AI」勝過傳統的大量捕捉、AI 雙向連結在跨領域研究中的應用，以及心臟血管外科醫師建構第二大脑的實用三步驟。由 NotebookLM Deep Dive 生成，Hermes Agent 協作。</description>
+      <itunes:summary>2026 年，AI 與筆記工具的關係正在發生根本性的典範轉移。本集以 NxCode 最新指南為出發點，深入討論 AI Agent 工作流、MCP 協定、知識結構化等五個關鍵議題。</itunes:summary>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
       <enclosure url="https://github.com/W-PY/drwpy-podcast/releases/download/v0.1.0/001-ai-obsidian-2026.mp4" length="43544989" type="video/mp4"/>
-      <itunes:duration>20:00</itunes:duration>
+      <itunes:duration>22:32</itunes:duration>
     </item>
   </channel>
 </rss>
