@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>DrWPY 的 AI 與醫學筆記</title>
+    <link>https://w-py.github.io/drwpy-podcast/</link>
+    <description>心臟血管外科醫師的 AI 應用與醫學研究筆記，由 Hermes Agent 協作生成。</description>
+    <language>zh-tw</language>
+    <itunes:author>DrWPY</itunes:author>
+    <itunes:summary>一位心臟血管外科醫師在臨床、碩士研究與 AI 技術之間的探索與筆記。</itunes:summary>
+    <itunes:owner>
+      <itunes:name>DrWPY</itunes:name>
+      <itunes:email>wpyz375@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://w-py.github.io/drwpy-podcast/cover.jpg"/>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>AI Obsidian 第二大脑 - 從聊天到 Agent 工作流 (2026)</title>
+      <link>https://w-py.github.io/drwpy-podcast/episodes/001-ai-obsidian-2026.html</link>
+      <guid isPermaLink="true">https://w-py.github.io/drwpy-podcast/episodes/001-ai-obsidian-2026.html</guid>
+      <pubDate>Fri, 23 May 2026 08:00:00 GMT</pubDate>
+      <description>2026 年 Obsidian + AI Agent 工作流的完整指南，探討如何從單純的 AI 問答進化到自主工作代理。</description>
+      <itunes:summary>2026 年 Obsidian + AI Agent 工作流的完整指南，探討如何從單純的 AI 問答進化到自主工作代理。</itunes:summary>
+      <enclosure url="https://github.com/W-PY/drwpy-podcast/releases/download/v0.1.0/001-ai-obsidian-2026.mp4" length="43544989" type="video/mp4"/>
+      <itunes:duration>20:00</itunes:duration>
+    </item>
+  </channel>
+</rss>
